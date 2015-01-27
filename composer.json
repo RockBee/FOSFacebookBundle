@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/facebook-bundle",
+    "name": "rockbee/facebook-bundle",
     "type": "symfony-bundle",
     "description": "Integrate the Facebook Platform into your Symfony2 application.",
     "keywords": ["facebook"],
@@ -35,7 +35,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-0": { "FOS\\FacebookBundle": "" }
+        "psr-0": { "Rockbee\\FacebookBundle": "" }
     },
     "extra": {
         "branch-alias": {
